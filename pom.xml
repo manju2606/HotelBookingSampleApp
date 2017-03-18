@@ -149,8 +149,7 @@
 					</suiteXmlFiles>
 					<argLine>-Xmx500m -Dtapx.test-mode=true</argLine>
 					<redirectTestOutputToFile>false</redirectTestOutputToFile>
-					<skipTests>true</skipTests>
-				</configuration>
+					</configuration>
 			</plugin>
 
 			<!-- https://mvnrepository.com/artifact/org.apache.maven.plugins/maven-checkstyle-plugin -->
