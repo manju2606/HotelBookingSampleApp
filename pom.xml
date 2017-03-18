@@ -202,7 +202,7 @@
 		<snapshotRepository>
 			<id>artifactory</id>
 			<name>artifactory</name>
-			<url>http://cgsclit43993031.inedc.corpintra.net:8082/artifactory/plugins-snapshot-local</url>
+			<url>http://narma13-u187510:8081/artifactory/plugins-snapshot-local</url>
 		</snapshotRepository>
 	</distributionManagement>
 	
